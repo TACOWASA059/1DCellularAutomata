@@ -1,0 +1,15 @@
+name: CellularAntomata1d
+version: '${project.version}'
+main: com.github.tacowasa059.cellularantomata1d.CellularAntomata1d
+api-version: 1.16
+description: 1D cellular automata simulation in the x-z plane
+commands:
+  position1:
+    description: set position1
+    usage: /<command>
+  position2:
+    description: set position2
+    usage: /<command>
+  gen1dAutomata:
+    description: generate 1d automata
+    usage: /<command> <rule_Number>
