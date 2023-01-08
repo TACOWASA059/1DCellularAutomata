@@ -8,7 +8,9 @@
 
 /gen1dautomata  rule_num
 
-
+最初の1列が初期値
+黒羊毛→1
+白羊毛→0
 
 
 (例)ルール90 /gen1dautomata 90
