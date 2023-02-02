@@ -1,6 +1,7 @@
 # 1DCellularAutomata
 1次元セルオートマトンを表示する
-##　コマンド
+
+## コマンド
 - /position1 - 範囲指定pos1
 - /position2 - 範囲指定pos2
 
